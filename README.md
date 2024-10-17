@@ -100,7 +100,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-02 142727](https://github.com/user-attachments/assets/b276b1d5-58b5-41b4-bab5-c75180f4a7b8)
+![Screenshot 2024-10-17 091558](https://github.com/user-attachments/assets/b227c162-c67a-4b80-83e9-54839cecd30a)
+
 
 
 ## RESULT:
@@ -303,7 +304,7 @@ int main() {
     printf("Key text: %s\n", key);
 
     // Plaintext to be encrypted
-    strcpy(str, "KEERTHANA");
+    strcpy(str, "PRIYA");
     printf("Plain text: %s\n", str);
 
     // Encrypt using Playfair Cipher
@@ -319,7 +320,8 @@ int main() {
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/3eb0448d-4b22-42aa-9c9b-8854796d9e05)
+
+![Screenshot 2024-10-17 092232](https://github.com/user-attachments/assets/fa7c3955-c070-4772-9527-eb761ddafb78)
 
 
 ## RESULT:
@@ -405,7 +407,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "KEERTHANA");
+    strcpy(msg, "PRIYA");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -454,7 +456,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/82e4d7c4-101c-4bef-8989-193527d2e364)
+![Screenshot 2024-10-17 092404](https://github.com/user-attachments/assets/bca5a189-26f0-4db8-a7e3-4eb721af6ba4)
+
 
 ## RESULT:
 The program is executed successfully
@@ -566,7 +569,8 @@ void decipher() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/b2eccba2-7174-4f30-b375-7722bf5ca2c6)
+![Screenshot 2024-10-17 092655](https://github.com/user-attachments/assets/d3a18ea7-0fd0-4839-8bcc-9b49dc209df0)
+
 
 ## RESULT:
 The program is executed successfully
@@ -659,7 +663,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/18e3e130-13c7-49dc-ba1f-16e9c9c5d4ae)
+![Screenshot 2024-10-17 092919](https://github.com/user-attachments/assets/a8ddb8c8-69b8-4199-9fb5-f3f274e38a37)
+
 
 ## RESULT:
 The program is executed successfully
